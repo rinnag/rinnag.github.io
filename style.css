@@ -2,11 +2,12 @@ body {
 	color:#708C3B;
 	background-color: #b19cd9;
 	text-align: center;
-	font-size: 16px;
+	font-size: 25px;
 	
 }
 h1 {
 	text-decoration: overline;
+	text-decoration: underline;
 
 }
 #slogan {
