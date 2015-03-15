@@ -1,7 +1,8 @@
 * {margin: 0; padding: 0; box-sizing: border-box;}
 body {
-	color: #000000;
-	background: img/cabletray.png;
+	color: white;
+	background-image: url(cabletray.png);
+	background-size: cover;
 	text-align: center;
 	font-size: 25px;
 	
