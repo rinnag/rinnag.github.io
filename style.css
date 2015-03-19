@@ -1,21 +1,26 @@
-* {margin:10px ; padding: 0; box-sizing: border-box;}
+* {margin:0; padding: 0; box-sizing: border-box;}
 body {
 	color: white;
 	background-color: #404040;
-	
-	text-align: center;
-	font-size: 15px;
+	font-size: 16px;
 }	
 img {}
 
 
 h1 {
 	text-decoration: underline;
-	font-size: normal;
-
+	font-size:2em;
+}
+li {
+	margin-left:1.25em;
 }
 #slogan {
 	background: yellow;
 	font-weight: bold;
-	color: silver;
+	color: #777777;
+	padding:1em;
+}
+.wrapper {
+	margin:0 auto 0 auto;
+	max-width:75em;
 }
