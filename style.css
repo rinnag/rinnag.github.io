@@ -3,7 +3,7 @@ body {
 	color: white;
 	background-color: #404040;
 	font-size: 16px;
-	font-family: 'Libre Baskerville', serif;
+	font-family: 'Playfair Display', serif;
 }	
 img {}
 
@@ -24,4 +24,7 @@ li {
 .wrapper {
 	margin:0 auto 0 auto;
 	max-width:75em;
+}
+ul {
+	font-style: italic;
 }
