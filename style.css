@@ -2,7 +2,8 @@
 body {
 	color: white;
 	background-color: #2a2a2a;
-	background: 
+	background-image: "img/wireframecad.jpg"
+	background-size: cover
 	font-size: 16px;
 	font-family: 'Lora', serif;
 }	
