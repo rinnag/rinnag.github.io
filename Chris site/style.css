@@ -1,0 +1,31 @@
+
+header {
+	background-color: #BFAFBE;
+	font-family: "Circular", Helvetica, Arial, sans-serif;
+}
+nav {
+	display: block;
+}
+img {
+	display: inline;
+}
+body {
+	background-color: #EEFFE9;
+	font-size: 16px;
+	margin: 5em;
+	font-family: circular;
+}
+p {
+	margin: 2em;
+	padding: 1em;
+
+}
+ol {
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+	padding: 4em;
+	float: left;
+	list-style: none;
+
+}
